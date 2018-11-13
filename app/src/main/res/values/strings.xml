@@ -8,4 +8,8 @@
     <string name="txtTitle1">Midnight Sadness 穏英</string>
     <string name="txtTitle2">Seeking for Happiness゛者だ</string>
     <string name="txtArtist">Artist\'s name</string>
+    <string name="imgDisc">Play Disc Image</string>
+    <string name="btnPlay">Play Button</string>
+    <string name="btnBackward">Backward button</string>
+    <string name="btnForward">Forward button</string>
 </resources>
