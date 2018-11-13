@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="imgBackground">Background Image</string>
+    <string name="imgArtist">Artist\'s postrait</string>
+    <string name="imgLogo">App Logo</string>
+    <string name="imgSong1">Image of Song no.1</string>
+    <string name="imgSong2">Image of Song no.2</string>
+    <string name="txtTitle1">Midnight Sadness 穏英</string>
+    <string name="txtTitle2">Seeking for Happiness゛者だ</string>
+    <string name="txtArtist">Artist\'s name</string>
+</resources>
